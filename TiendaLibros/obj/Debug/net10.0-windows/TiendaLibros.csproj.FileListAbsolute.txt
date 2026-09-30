@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\TiendaLibros\bin\Debug\net10.0-windows\TiendaLibros.exe
+C:\Users\danie\source\repos\TiendaLibros\bin\Debug\net10.0-windows\TiendaLibros.deps.json
+C:\Users\danie\source\repos\TiendaLibros\bin\Debug\net10.0-windows\TiendaLibros.runtimeconfig.json
+C:\Users\danie\source\repos\TiendaLibros\bin\Debug\net10.0-windows\TiendaLibros.dll
+C:\Users\danie\source\repos\TiendaLibros\bin\Debug\net10.0-windows\TiendaLibros.pdb
+C:\Users\danie\source\repos\TiendaLibros\bin\Debug\net10.0-windows\CsvHelper.dll
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLibros.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLibros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLibros.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLibros.AssemblyInfo.cs
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLibros.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLi.53BC1179.Up2Date
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLibros.dll
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\refint\TiendaLibros.dll
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLibros.pdb
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\TiendaLibros.genruntimeconfig.cache
+C:\Users\danie\source\repos\TiendaLibros\obj\Debug\net10.0-windows\ref\TiendaLibros.dll
